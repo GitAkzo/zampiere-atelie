@@ -106,3 +106,4 @@ export default function CatalogSection({ products = [], onAddToCart }) {
     </section>
   );
 }
+

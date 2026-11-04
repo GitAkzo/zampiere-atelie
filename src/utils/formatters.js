@@ -26,3 +26,4 @@ export function formatPhone(value = '') {
 export function sanitizePhone(value = '') {
   return value.replace(/\D/g, '');
 }
+

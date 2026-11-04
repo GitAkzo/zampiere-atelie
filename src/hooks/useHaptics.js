@@ -16,3 +16,4 @@ export function useHaptics() {
 
   return { triggerHaptic };
 }
+

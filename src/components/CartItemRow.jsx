@@ -69,3 +69,4 @@ export default function CartItemRow({ item, onUpdateQuantity, onRemove }) {
     </div>
   );
 }
+

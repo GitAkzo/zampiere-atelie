@@ -8,7 +8,7 @@ export default function ProductCard({ product, onSelectProduct }) {
   const [imageError, setImageError] = useState(false);
 
   const fallbackImage =
-    'https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=700&q=80';
+    'https://images.unsplash.com/photo-1676206502051-89deda798a80?auto=format&fit=crop&w=700&q=80';
 
   const handleClick = () => {
     triggerHaptic(10);
@@ -78,3 +78,4 @@ export default function ProductCard({ product, onSelectProduct }) {
     </div>
   );
 }
+

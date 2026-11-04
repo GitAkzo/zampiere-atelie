@@ -9,7 +9,10 @@
     font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
   }
 
-  h1, h2, h3, .font-serif {
+  h1,
+  h2,
+  h3,
+  .font-serif {
     font-family: 'Playfair Display', Georgia, serif;
   }
 }
@@ -19,13 +22,16 @@
   width: 6px;
   height: 6px;
 }
+
 ::-webkit-scrollbar-track {
   background: #F7F3EC;
 }
+
 ::-webkit-scrollbar-thumb {
   background: #D59D85;
   border-radius: 9999px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: #C27B62;
 }

@@ -148,3 +148,4 @@ export default function ProductModal({ product, isOpen, onClose, onAddToCart }) 
     </div>
   );
 }
+

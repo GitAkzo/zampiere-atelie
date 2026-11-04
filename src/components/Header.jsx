@@ -61,3 +61,4 @@ export default function Header({ totalItems = 0, onOpenCart }) {
     </header>
   );
 }
+

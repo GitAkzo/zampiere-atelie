@@ -20,3 +20,4 @@ export const FAQ_QUESTIONS = [
     answer: 'Para que suas peças durem muitos anos mantendo o brilho, evite contato direto com perfumes, cremes, água do mar ou piscina. Guarde sempre em local seco e arejado, preferencialmente no saquinho ou caixinha protetora que acompanha o produto.'
   }
 ];
+

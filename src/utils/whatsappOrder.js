@@ -73,3 +73,4 @@ export function buildWhatsAppOrderUrl({
   const cleanPhone = targetPhone.replace(/\D/g, '');
   return `https://wa.me/55${cleanPhone}?text=${encodeURIComponent(fullText)}`;
 }
+
